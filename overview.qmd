@@ -7,6 +7,6 @@ date-modified: "last-modified"
 
 Here is the overview of the website
 
-# Overview 
+# Overview
 
-## Motivation of project 
+## Motivation of project
