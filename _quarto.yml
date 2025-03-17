@@ -19,7 +19,7 @@ website:
 
 format:
   html:
-    theme: united
+    theme: como
     css: styles.css
     toc: true
 
