@@ -1,0 +1,9 @@
+---
+title: "SMT201_karina"
+---
+
+Welcome to SMT01 GIS for Urban Planning Project Website. In this website, you will find....
+
+```{r}
+1 + 1
+```
