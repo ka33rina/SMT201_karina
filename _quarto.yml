@@ -16,6 +16,8 @@ website:
         text: Home
       - text: Team
         href: about.qmd
+      - text: Results and Discussion
+        href: "qgis2web/index.html"
 
 format:
   html:
